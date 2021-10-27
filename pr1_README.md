@@ -1,9 +1,3 @@
-Kara Pelster
-
-CISC442 
-
-Programming Assignment 1
-
 # Setup
 
 numpy, matplotlib, opencv-contrib-python, and scikit-image are needed to run this program
